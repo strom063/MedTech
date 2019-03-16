@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MedTech</string>
+
+    <string name="bleedexp">
+    <br>
+        1.)Apply and maintain pressure to the wound with your gloved hand, using a clean pad or dressing if possible; continue to apply pressure until the bleeding stops\n \n
+    </br>
+    <br>
+        2.)use a clean dressing to bandage the wound firmly\n \n
+    </br>
+    <br>
+        3.)if bleeding continues through the pad, apply pressure to the wound  until the bleeding stops and then apply another pad over the top and bandage it in place doNt remove the original pad or dressing, but continue to check that the bleeding has stopped \n \n \n
+    </br>
+
+    </string>
+
+    <string name="allergiesexp">
+        <br>
+            1.)Check if the person is carrying any medication. \n \n
+        </br>
+        <br>
+            2.)Make sure theyre comfortable and can breathe as best they can while waiting for medical help to arrive.\n \n
+        </br>
+        <br>
+            3.0Call 999 or 112 immediately if you think someone is experiencing anaphylactic shock.
+        </br>
+    </string>
+
+
+</resources>
